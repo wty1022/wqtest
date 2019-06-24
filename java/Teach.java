@@ -3,5 +3,6 @@ public class Teach {
         System.out.println("测试一下");
         System.out.println("wty");
         System.out.println("hahaha");
+        System.out.println(1111);
     }
 }
